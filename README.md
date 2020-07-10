@@ -1,4 +1,4 @@
-# Michael / @mcarbenay 
+# Michael @mcarbenay 
 
 Quelques mots à propos de moi : je suis un geek/nerd, entrepreneur depuis 15 ans, passionné par le dev. Je suis Lead-dev et PO dans notre petite équipe, éditrice d'un logicel SaaS pour le Commerce Unifié. 
 
